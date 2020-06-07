@@ -1,0 +1,7 @@
+name: Lobby
+version: 1.0
+main: ch.alessio.main.Main
+
+commands:
+  build:
+  Setloc:

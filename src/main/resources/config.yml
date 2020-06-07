@@ -1,0 +1,80 @@
+Prefix: '&6 Test'
+LobbyWorldName: 'world'
+
+Messages:
+  Build:
+    Leave: '&4 Du hast den Build-Modus Verlassen'
+    Join: '&4 Du hast den Build-Modus Betretten'
+
+Permissions:
+  Build: 'lobby.build'
+  ChatColor: 'lobby.color'
+  Silentlobby: 'lobby.silent'
+
+
+Scoreboard:
+  Titel: '&6dein-servername.de'
+  Line10: ''
+  Line9: '&9'
+  Line8: '&7Teamspeak-IP&8:'
+  Line7: '&ets.dein-servername.de'
+  Line6: '&7'
+  Line5: '&7Rang&8:'
+  Line4: '&6Kommt Noch:'
+  Line3: '&3'
+  Line2: '&6&lViel Spass'
+  Line1: ''
+
+Items:
+  Navigator:
+    Name: '&e Navigator &c (Rechtsklick)'
+    Item:
+      Spawn:
+        WarpSpawn: '&e Spawn'
+        WarpID: 'spawn'
+      1:
+        WarpSpawn: '&e 1'
+        WarpID: '1'
+      2:
+        WarpSpawn: '&e 2'
+        WarpID: '2'
+      3:
+        WarpSpawn: '&e 3'
+        WarpID: '3'
+      4:
+        WarpSpawn: '&e 4'
+        WarpID: '4'
+      5:
+        WarpSpawn: '&e 5'
+        WarpID: '5'
+      6:
+        WarpSpawn: '&e 6'
+        WarpID: '6'
+      7:
+        WarpSpawn: '&e 7'
+        WarpID: '7'
+      8:
+        WarpSpawn: '&e 8'
+        WarpID: '8'
+  Profile:
+    Name: '&e Profil &c (Rechtsklick)'
+    Einstellungen: '&e Einstellungen'
+    Flugmodus: '&e Flugmodus'
+    Playerhider:
+      An: '&e Spieler Anzeigen'
+      Aus: '&e Spieler Verstecken'
+
+  Silenthub:
+    Name: '&e Silent-Lobby &c (Rechtsklick)'
+    An: '&eSilent-Lobby An'
+    Aus: '&eSilent-Lobby Aus'
+    AnMsg: '&eSie sind nun in der Silent Lobby'
+    AusMsg: '&eSie sind nichtmehr in der Silent Lobby'
+
+  Gadgets:
+    Name: '&e Gadgets &c (Rechtsklick)'
+    Items:
+      Boots:
+        Name: '&e Boots'
+        LoveBoots: '&e LoveBoots'
+        FireBoots: '&e RoketBoots'
